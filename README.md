@@ -1,5 +1,4 @@
 # HomeAway
-
   A full-stack property rental platform built with Next.js, featuring authentication, property listings, booking system, payments, and admin dashboard.
 
 ## Tech Stack
